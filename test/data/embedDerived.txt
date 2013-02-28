@@ -1,0 +1,7 @@
+-- this.extend("embed.txt", function(err) {
+--  this.block("embedBlock", function() {
+--    for (var i=10; i<12; i++) {
+the embedded content #{i}
+--    };
+--  });
+-- }); // end extend

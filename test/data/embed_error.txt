@@ -1,0 +1,6 @@
+-- _mayo.embed("nofile", function(err) {
+    error is : #{err}
+-- });
+-- _mayo.embed("nofile", function(err) {
+    error is : #{err}
+-- });

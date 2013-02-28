@@ -1,0 +1,13 @@
+embed begin
+\#{}
+\#{xx}
+--
+--
+-- var beg = param.beg===undefined? 0 : param.beg;
+-- var end = param.end===undefined? 2 : param.end;
+-- this.block("embedBlock", function() {
+-- for (var i=beg; i<end; i++) {
+the embedded content #{i}
+-- };
+-- });
+embed end

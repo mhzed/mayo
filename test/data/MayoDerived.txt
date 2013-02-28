@@ -1,0 +1,9 @@
+-- this.extend('Mayo.txt', function(err) {
+--  this.block('board', function() {
+    . . . . . .
+    * . * . * .
+--  this.print("\n=====\n");
+--  this.print(require('./tmodule').name);
+--  this.print("\n=====\n");
+--  });
+-- }); // end extend

@@ -1,0 +1,5 @@
+-- this.extend('MayoDerived.txt', function(err) {
+--    this.block('board', function() {
+**** grand child ****
+--    });
+-- });

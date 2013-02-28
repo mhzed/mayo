@@ -1,0 +1,7 @@
+-- this.extend('Mayo.txt', function() {
+--  this.extendBlock('board', function() {
+    . . . . . .
+    * . * . * .
+--  this.embed("embedDerived.txt");
+--  });
+-- });

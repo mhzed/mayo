@@ -1,0 +1,18 @@
+the template test txt file
+#{param.px}
+#{param.ps}
+-- this.embed("embed.txt");
+-- this.filter(function(e) {
+--   return e.replace(/\./mg, '-');
+-- }, function() {
+abc...     
+...xyz
+-- });
+board "./":
+-- this.block('board', function() {
+    o o o o o o
+    o x o o x o
+    x o x o o o
+    o x o x o x
+    o o o o o o
+-- });

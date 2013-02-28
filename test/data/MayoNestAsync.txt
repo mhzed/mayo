@@ -1,0 +1,10 @@
+-- this.extend('MayoDerived.txt', function(err) {
+--   this.block('board', function() {
+--   this.async(null, setTimeout, function() {
+    **** async *****
+--     this.async(null, setTimeout, function() {
+        **** nested async *****
+--      }, 100);    // end async setTimeout
+--   }, 100);    // end asycn setTimeout
+--   });
+-- }); // end extend

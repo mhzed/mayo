@@ -1,0 +1,40 @@
+{
+  "name": "mayo",
+  "version": "0.1.0",
+  "author": {
+      "name" : "zed zhou",
+      "url" : "http://mhzed.com",
+      "email" : "mhzedd@gmail.com"
+  },
+  "keywords": [
+    "template",
+    "html",
+    "coffescript",
+    "asynchronous"
+  ],
+  "description": "Asynchronous template engine with coffeescript support",
+  "homepage": "https://github.com/mhzed/mayo",
+  "bugs" : {
+      "email": "mhzedd@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "dependencies" : {
+    "under_score" : ">=0.1.0"
+  },
+  "devDependencies" : {
+    "nodeunit" : "*"
+  } ,
+  "optionalDependencies" : {
+    "coffee-script" : "1.x"
+  },
+
+  "main": "./index"
+}
