@@ -12,6 +12,10 @@ Mayo is yet another generic template engine for javascript, key features include
 7. built-in caching for optimum run time performance.
 8. uses a line based code marker, which makes template code easier to read(in author's opinion)
 
+## Installation
+
+    npm install mayo
+
 ## Basics
 
 A very basic usage example:
